@@ -1,3 +1,2 @@
 # crazy-chain
 
-/play trombone
