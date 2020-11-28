@@ -1,2 +1,2 @@
-# crazy-chain
+# Chickenchain
 
